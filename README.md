@@ -85,4 +85,4 @@ AdstirUserEvent.setTestMode(true);
 
 ## APIリファレンス
 
-index.htmlを参照してください。
+https://united-adstir.github.io/adstir-Integration-Guide-Android-for-UserEvent/ を参照してください。
