@@ -25,7 +25,7 @@ https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E5%88%9D
 `AdstirUserEvent.setMediaSymbol()`を用いて初期化を行います。
 
 ```java
-AdstirUserEvent.setMediaSymbol(this, "MEDIA-xxxx");
+AdstirUserEvent.setMediaSymbol("MEDIA-xxxx");
 ```
 
 ### 2. アプリ内のユーザ行動を計測する
